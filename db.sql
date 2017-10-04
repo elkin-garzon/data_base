@@ -7,6 +7,7 @@
 	NOT NULL	= NO PUEDE IR VACIO
 	PRIMARY KEY	= LLAVE PRIMARIA
 	FOREIGN KEY	= LLAVE FORANEA
+	
 */
 
 /*crear base de datos*/
